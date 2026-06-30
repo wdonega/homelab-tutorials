@@ -7,14 +7,15 @@
             "en": "Official Armbian Debian 13 Trixie minimal CLI build"
         },
         "img": "https://raw.githubusercontent.com/nyecov/roobi-config-anyOS/main/customList/assets/pic/armbian.svg",
-        "version": "current",
+        "version": "26.5.1",
         "author": "Armbian",
         "date": "2026",
         "download": [
             {
                 "file_name": "Armbian_Rock-5-itx_Debian13_minimal.img.xz",
+                "size": 330083944,
                 "urls": [
-                    "https://dl.armbian.com/rock-5-itx/Trixie_current_minimal"
+                    "https://armbian.chi.auroradev.org/dl/rock-5-itx/archive/Armbian_26.5.1_Rock-5-itx_trixie_current_6.18.34_minimal.img.xz"
                 ]
             }
         ],
