@@ -56,13 +56,13 @@
             "sig": "c0p/bayGjVxdKkekaw9hYmqGHh0vNHQXFhpd8ju8As+EUIWERBDVLyYXMACGprSr3itCUhmHNqgghwv4lGv+VqZbCQOkv3JBx3fwYo4SIkc5SInRRm6UrjS+nJfJw2hUJrRoAfbCX7ALHAlnqWQRS7SAnVEFm1PIwFXM1wKnsxTRiLUE5h+xCvKItfrPcT4SLd323Qg82GNLE/gl0EGPeoDPRg6a/KYJgHWCxh9kfdBvW9+RcAhZatquSCclKLSoO66zp6CqqA4gbO4gQBkNjizg6Xj9gbE5Q/aw0BJgfzTS1miife1UCunQbox/KqJPo4Mh6+RFHpjXykFe6ItzNw=="
         },
 
-                {
-            "file_name": "Armbian_Rock-5-itx_OMV.img.xz",
-            "size": 351570188,
+        {
+            "file_name": "Armbian_26.5.1_Rock-5-itx_trixie_current_6.18.34_minimal.img.xz",
+            "size": 330083944,
             "urls": [
-                "https://dl.armbian.com/rock-5-itx/Bookworm_vendor_minimal-omv"
+                "https://dl.armbian.com/rock-5-itx/Trixie_vendor_minimal"
             ],
-            "md5": "a45e600413ea8cbeab68d58b2cf32aab"
+             "md5": "dc0ebe53c7851a0c01182ffc54983871"
         }
         
     ],
