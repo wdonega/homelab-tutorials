@@ -1,7 +1,7 @@
 {
     "script_version": "1",
     "uuid": "c1fcf90fc85a450e85d1ae35628dece2",
-    "name": "Debian 13 Minimal CLI (current kernel) ROAR",
+    "name": "Debian 13 Minimal CLI (current kernel)",
         "description": {
             "en": "Official Armbian Debian 13 Trixie minimal CLI build"
     },
