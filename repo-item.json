@@ -60,7 +60,7 @@
             "file_name": "Armbian_26.5.1_Rock-5-itx_trixie_current_6.18.34_minimal.img.xz",
             "size": 330083944,
             "urls": [
-                "https://dl.armbian.com/rock-5-itx/Trixie_vendor_minimal"
+                "https://armbian.chi.auroradev.org/dl/rock-5-itx/archive/Armbian_26.5.1_Rock-5-itx_trixie_current_6.18.34_minimal.img.xz"
             ],
              "md5": "b989e3b9c2fcde317581f7658cf86687"
         }
