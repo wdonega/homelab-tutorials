@@ -3,7 +3,7 @@
     "uuid": "c1fcf90fc85a450e85d1ae35628dece2",
     "name": "Debian 13 Minimal CLI (current kernel)",
         "description": {
-            "en": "Official Armbian Debian 13 Trixie minimal CLI build"
+            "en": "Official Armbian Debian 13 Trixie minimal CLI build1"
     },
     "img": "https://raw.githubusercontent.com/nyecov/roobi-config-anyOS/main/customList/assets/pic/armbian.svg",
     "version": "Check Armbian Website",
