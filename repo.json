@@ -1,0 +1,29 @@
+[
+    {
+        "script_version": "1",
+        "uuid": "a1b2c3d4e5f6470081234567890abcde",
+        "name": "Debian 13 Minimal CLI (current kernel)",
+        "description": {
+            "en": "Official Armbian Debian 13 Trixie minimal CLI build"
+        },
+        "img": "https://raw.githubusercontent.com/nyecov/roobi-config-anyOS/main/customList/assets/pic/armbian.svg",
+        "version": "current",
+        "author": "Armbian",
+        "date": "2026",
+        "download": [
+            {
+                "file_name": "Armbian_Rock-5-itx_Debian13_minimal.img.xz",
+                "urls": [
+                    "https://dl.armbian.com/rock-5-itx/Trixie_current_minimal"
+                ]
+            }
+        ],
+        "scripts": [
+            {
+                "type": "auto",
+                "text": "start",
+                "size": 2134900736
+            }
+        ]
+    }
+]
